@@ -6,9 +6,7 @@ My name is Ryan Chow, a Masters of Data Science student at the University of Mel
 
 ## 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan_Chow-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswongcl/)
-
-[![Mail Badge](https://img.shields.io/badge/-Ryan_Chow-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ryan.chow@hotmail.com.au)
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan_Chow-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholaswongcl/) [![Mail Badge](https://img.shields.io/badge/-Ryan_Chow-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ryan.chow@hotmail.com.au)
 
 <!--
 **lcho0006/lcho0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
