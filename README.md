@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, nice to meet you! 
+
+My name is Ryan Chow, a Masters of Data Science student at the University of Melbourne. I am currently interested in seeking job oppurtunities and internships to gain more experience.
 
 <!--
 **lcho0006/lcho0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
